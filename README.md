@@ -1,6 +1,6 @@
 *Make it your own*               
-*like it's yours*      *ᵇʳᵒ ʳᵉᵃˡˡʸ ᵈᵒᶦⁿᵍ ᵐᵒᵗᶦᵛᵃᵗᶦᵒⁿᵃˡ ᵐᵉˢˢᵃᵍᵉˢ💀* ![Logo](https://github.com/user-attachments/assets/a4a5e970-783d-4b9c-8c93-c0e24ea80fac)
-
+*like it's yours*      *ᵇʳᵒ ʳᵉᵃˡˡʸ ᵈᵒᶦⁿᵍ ᵐᵒᵗᶦᵛᵃᵗᶦᵒⁿᵃˡ ᵐᵉˢˢᵃᵍᵉˢ💀* 
+![Logo](https://github.com/user-attachments/assets/a4a5e970-783d-4b9c-8c93-c0e24ea80fac)
 *Make it your own way*
  ![ezgif-2-4920687955](https://github.com/user-attachments/assets/04eba02e-3553-4690-82a6-228c389de5df)
 
