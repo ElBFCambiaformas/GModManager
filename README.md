@@ -7,8 +7,15 @@
 # **NOTE**
 This GMManager is still in WIP, and you can be in the official app! (or in github), just make an addition in the .py and make a fork, and i'll make sure to add the addition to the official app (or plugin)
 There may be bugs, if you find any, report them to the [Issues Tab](https://github.com/ElBFCambiaformas/GModManager/issues)
+# Commontly known bugs
+The most commmon one is that some addons won't either download (and appear an error) or it's going to crash, or, that it downloads, but it doesn't appear on the mod list, not even reloading the addons, or colsing and opening the program.
+That's the most common by now, if you find any bug, report it to the [Issues](https://github.com/ElBFCambiaformas/GModManager/issues) tab!
+
 # Release date?
 As of right now, the official app ins't done, there are far many features to be added, so that's why this is open source, i want this app to be *creative*, *easy to use*, and *customizable*
+
+# Where is going to be the app?
+In Gamebanana, or, in other pages!
 
 # Features
 - A lightweiged, easy to use UI
