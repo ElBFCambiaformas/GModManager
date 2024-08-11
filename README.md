@@ -19,10 +19,6 @@ In Gamebanana, or, in other pages!
 
 ![imagen](https://github.com/user-attachments/assets/9094966c-d313-4092-9411-1852e636eccd)
 
-- A easy to use mod downloading feature (like always)
-
-![imagen](https://github.com/user-attachments/assets/d95dfe21-3260-4af2-a4d7-cfcee5dd2c2c)
-
 - A Username system
 
 ![imagen](https://github.com/user-attachments/assets/85336827-92a1-4576-b34a-e71d3b780a7b)
