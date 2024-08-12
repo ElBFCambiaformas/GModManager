@@ -29,4 +29,4 @@ In Gamebanana, or, in other pages!
 
 ![imagen](https://github.com/user-attachments/assets/85336827-92a1-4576-b34a-e71d3b780a7b)
 -And many, many features coming soon!
-(i'm thinking on adding custom themes to the app)
+
