@@ -1,8 +1,8 @@
+# Can't use RAR? ZIP Version here!
+https://drive.google.com/file/d/1t5GCpV4EssQT00fIIuXjIGAhrRavsNDd/view?usp=sharing
 
 
-ZIP Version: https://drive.google.com/uc?export=download&id=1nMXf6QIpXeiwLFj2nY8bKno85fo2bhiG
-
-
+# Info
 
 *Make it your own*               
 *like it's yours*      *ᵇʳᵒ ʳᵉᵃˡˡʸ ᵈᵒᶦⁿᵍ ᵐᵒᵗᶦᵛᵃᵗᶦᵒⁿᵃˡ ᵐᵉˢˢᵃᵍᵉˢ💀* 
