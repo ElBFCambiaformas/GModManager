@@ -22,12 +22,14 @@ As of right now, the official app ins't done, there are far many features to be 
 In Gamebanana, or, in other pages!
 
 # Features
-- A lightweiged, easy to use UI
+- A NEW lightweiged, easy to use UI
 
-![imagen](https://github.com/user-attachments/assets/9094966c-d313-4092-9411-1852e636eccd)
+![imagen](https://github.com/user-attachments/assets/9088f3bf-6112-4ee5-9038-dbdb92d927f8)
 
-- A Username system
 
-![imagen](https://github.com/user-attachments/assets/85336827-92a1-4576-b34a-e71d3b780a7b)
+ Custom colors!
+
+![imagen](https://github.com/user-attachments/assets/c3acd82c-0ece-4c00-aed0-11b1cbd1ba03)
+
 -And many, many features coming soon!
 
